@@ -1,8 +1,9 @@
 <?php
-  
+echo "<h1>Data Mahasiswa</h1>";
 echo "NIM = 22110066";
 echo "Nama Lengkap = Renaldo";
-echo "Tempat Lahir = Pekanbaru"
+echo "Tempat Lahir = Pekanbaru";
 echo "Tanggal Lahir = 13 Maret 1985";
-
+echo "Agama = Islam";
+echo "Kelas = 22 MI B";
 ?>
